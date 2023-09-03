@@ -1,0 +1,15 @@
+{
+  "name": "wenglarz_1215776016_m2l1",
+  "version": "1.0.0",
+  "description": "Our First Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Wenglarz_1215776016_M2L1"
+  },
+  "author": "",
+  "license": "ISC"
+}
